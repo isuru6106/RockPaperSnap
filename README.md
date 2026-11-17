@@ -1,7 +1,5 @@
 # 🎮 RockPaperSnap
 
-# 🎮 RockPaperSnap
-
 **Think Fast. Choose Smart. Win the Battle!**
 
 ## 👨‍🎓 Student Details
