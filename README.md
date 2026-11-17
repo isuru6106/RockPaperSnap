@@ -143,10 +143,6 @@ The following functionalities were verified:
 - Navigation between game and rules screens.
 - Reset game functionality.
 
-## 👨‍💻 Developer
-
-Developed as part of the **Mobile Application Development Practical Assignment**.
-
 ## 🔗 GitHub Repository
 
 [https://github.com/isuru6106/RockPaperSnap](https://github.com/isuru6106/RockPaperSnap)
