@@ -1,5 +1,20 @@
 # 🎮 RockPaperSnap
 
+# 🎮 RockPaperSnap
+
+**Think Fast. Choose Smart. Win the Battle!**
+
+## 👨‍🎓 Student Details
+
+| Field        | Details                        |
+| ------------ | ------------------------------ |
+| Student Name | Isuru Udeshitha                |
+| Student ID   | PS/2022/036                    |
+| Course       | Mobile Application Development |
+| Assignment   | Practical Tutorial 05          |
+
+---
+
 **Think Fast. Choose Smart. Win the Battle!**
 
 RockPaperSnap is a mobile Rock, Paper, Scissors game developed using **React Native, Expo, and TypeScript**. Players compete against the computer through an interactive gaming interface with score tracking, winning streaks, match history, and a dedicated game rules screen.
